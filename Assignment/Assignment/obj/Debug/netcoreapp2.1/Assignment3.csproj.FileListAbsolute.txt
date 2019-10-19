@@ -1,0 +1,16 @@
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment3.deps.json
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.json
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment3.runtimeconfig.dev.json
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment3.dll
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment3.pdb
+C:\Users\mflor\source\repos\Assignment\Assignment\bin\Debug\netcoreapp2.1\Assignment1.dll
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.csprojAssemblyReference.cache
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.RazorAssemblyInfo.cache
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.RazorAssemblyInfo.cs
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfoInputs.cache
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.AssemblyInfo.cs
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.RazorTargetAssemblyInfo.cache
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.csproj.CopyComplete
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.dll
+C:\Users\mflor\source\repos\Assignment\Assignment\obj\Debug\netcoreapp2.1\Assignment3.pdb
